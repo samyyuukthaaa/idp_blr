@@ -1,0 +1,84 @@
+stop_id,stop_name,stop_lat,stop_lon
+metro_stop_001,Challaghatta,12.908100,77.482600
+metro_stop_002,Kengeri,12.910100,77.482600
+metro_stop_003,Kengeri Bus Terminal,12.917633,77.491267
+metro_stop_004,Pattanagere,12.925167,77.499933
+metro_stop_005,Jnanabharathi,12.932700,77.508600
+metro_stop_006,Rajarajeshwari Nagar,12.940233,77.517267
+metro_stop_007,Pantharapalya-Nayandahalli,12.947767,77.525933
+metro_stop_008,Mysuru Road,12.955300,77.534600
+metro_stop_009,Deepanjali Nagar,12.960833,77.538233
+metro_stop_010,Attiguppe,12.966367,77.541867
+metro_stop_011,Vijayanagar,12.971900,77.545500
+metro_stop_012,Hosahalli,12.973700,77.557300
+metro_stop_013,Magadi Road,12.975200,77.564300
+metro_stop_014,"Nadaprabhu Kempegowda Station, Majestic",12.976700,77.571300
+metro_stop_015,Krantivira Sangolli Rayanna Railway Station,12.976500,77.578620
+metro_stop_016,"Sir M. Visveshwaraya Station, Central College",12.976300,77.585940
+metro_stop_017,"Dr. B.R. Ambedkar Station, Vidhana Soudha",12.976100,77.593260
+metro_stop_018,Cubbon Park,12.975900,77.600580
+metro_stop_019,Mahatma Gandhi Road,12.975700,77.607900
+metro_stop_020,Trinity,12.976600,77.618867
+metro_stop_021,Halasuru,12.977500,77.629833
+metro_stop_022,Indiranagar,12.978400,77.640800
+metro_stop_023,Swami Vivekananda Road,12.984600,77.646650
+metro_stop_024,Baiyappanahalli,12.990800,77.652500
+metro_stop_025,Benniganahalli,12.995350,77.665200
+metro_stop_026,Krishnarajapura,12.999900,77.677900
+metro_stop_027,Singayyanapalya,12.993880,77.685400
+metro_stop_028,Garudacharpalya,12.987860,77.692900
+metro_stop_029,Hoodi,12.981840,77.700400
+metro_stop_030,Seetharamapalya,12.975820,77.707900
+metro_stop_031,Kundalahalli,12.969800,77.715400
+metro_stop_032,Nallurhalli,12.973600,77.721167
+metro_stop_033,Sri Sathya Sai Hospital,12.977400,77.726933
+metro_stop_034,Pattandur Agrahara,12.981200,77.732700
+metro_stop_035,Kadugodi Tree Park,12.985000,77.738467
+metro_stop_036,Hopefarm Channasandra,12.988800,77.744233
+metro_stop_037,Whitefield (Kadugodi),12.992600,77.750000
+metro_stop_038,Madavara,13.055500,77.490000
+metro_stop_039,Chikkabidarakallu,13.053667,77.493833
+metro_stop_040,Manjunathanagara,13.051833,77.497667
+metro_stop_041,Nagasandra,13.050000,77.501500
+metro_stop_042,Dasarahalli,13.046400,77.510367
+metro_stop_043,Jalahalli,13.042800,77.519233
+metro_stop_044,Peenya Industry,13.039200,77.528100
+metro_stop_045,Peenya,13.035600,77.536967
+metro_stop_046,Goraguntepalya,13.032000,77.545833
+metro_stop_047,Yeshwanthpur,13.028400,77.554700
+metro_stop_048,Sandal Soap Factory,13.022267,77.557400
+metro_stop_049,Mahalakshmi,13.016133,77.560100
+metro_stop_050,Rajajinagar,13.010000,77.562800
+metro_stop_051,Mahakavi Kuvempu Road,13.003867,77.565500
+metro_stop_052,Srirampura,12.997733,77.568200
+metro_stop_053,Mantri Square Sampige Road,12.991600,77.570900
+metro_stop_054,Chickpete,12.970025,77.574675
+metro_stop_055,Krishna Rajendra Market,12.963350,77.578050
+metro_stop_056,National College,12.956675,77.581425
+metro_stop_057,Lalbagh,12.950000,77.584800
+metro_stop_058,Southend Circle,12.940400,77.584300
+metro_stop_059,Jayanagar,12.930800,77.583800
+metro_stop_060,Rashtreeya Vidyalaya Road,12.942200,77.593600
+metro_stop_061,Banashankari,12.916600,77.573300
+metro_stop_062,Jaya Prakash Nagar,12.900800,77.569700
+metro_stop_063,Yelachenahalli,12.885000,77.566100
+metro_stop_064,Konanakunte Cross,12.876040,77.556640
+metro_stop_065,Doddakallasandra,12.867080,77.547180
+metro_stop_066,Vajarahalli,12.858120,77.537720
+metro_stop_067,Thalaghattapura,12.849160,77.528260
+metro_stop_068,Silk Institute,12.840200,77.518800
+metro_stop_069,Ragigudda,12.932300,77.599700
+metro_stop_070,Jayadeva Hospital,12.922400,77.605800
+metro_stop_071,BTM Layout,12.919800,77.614300
+metro_stop_072,Central Silk Board,12.917200,77.622800
+metro_stop_073,Bommanahalli,12.899400,77.622100
+metro_stop_074,Hongasandra,12.888500,77.627375
+metro_stop_075,Kudlu Gate,12.877600,77.632650
+metro_stop_076,Singasandra,12.866700,77.637925
+metro_stop_077,Hosa Road,12.855800,77.643200
+metro_stop_078,Beratena Agrahara,12.850500,77.651700
+metro_stop_079,Electronic City,12.845200,77.660200
+metro_stop_080,Infosys Foundation Konappana Agrahara,12.835875,77.667475
+metro_stop_081,Huskur Road,12.826550,77.674750
+metro_stop_082,Biocon Hebbagodi,12.817225,77.682025
+metro_stop_083,Delta Electronics Bommasandra,12.807900,77.689300

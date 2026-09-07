@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone
+metro_agency,Bangalore Metro Rail Corporation Limited (BMRCL) - Namma Metro,https://english.bmrc.co.in,Asia/Kolkata

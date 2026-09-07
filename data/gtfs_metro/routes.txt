@@ -1,0 +1,4 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+metro_route_purple,metro_agency,Purple,Purple Line (Challaghatta - Whitefield (Kadugodi)),1,9B30FF,FFFFFF
+metro_route_green,metro_agency,Green,Green Line (Madavara - Silk Institute),1,228B22,FFFFFF
+metro_route_yellow,metro_agency,Yellow,Yellow Line (Rashtreeya Vidyalaya Road - Delta Electronics Bommasandra),1,F2C209,000000
